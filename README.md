@@ -1,13 +1,8 @@
-E-commerce Website
-
+Website Link: https://jolly-grass-0104f0b10.5.azurestaticapps.net
 This is an E-commerce Front-End Website Design
-
 Web Technologies used: HTML, CSS, JS
-
 IDE: VSCode
-
 Industry: Beauty Services
-
 Project Title: E-Commerce Website 
 
 Project Description: The project aims to develop a comprehensive E-Commerce website offering a range of beauty services including hairstyling, makeup services, spa treatments, and related products. The website should be built using HTML, CSS, and JavaScript, and hosted on Azure Services. The goal is to create an intuitive and visually appealing platform that allows users to browse and purchase beauty services and products seamlessly.
