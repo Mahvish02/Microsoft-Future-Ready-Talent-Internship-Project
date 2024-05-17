@@ -4,6 +4,7 @@
 -->
 <h1 align="center"> Future Ready Talent Internship Project </h1>
 <h3 align="center"> A Lifestyle Front-End Website Design with FAQ Bot </h3>  
+<h3 align="center"> <a href= "https://jolly-grass-0104f0b10.5.azurestaticapps.net"> Website Link </a> </h3>  
 
 -----------------------------------------------------
 
@@ -18,8 +19,9 @@
     <li><a href="#project-description"> ➤ Project Description </a></li>
     <li><a href="#web-tech"> ➤ Web Technologies used </a></li>
     <li><a href="#azure-services"> ➤ Azure Services Used </a></li>
-    <li><a href="#"> ➤ Project Screenshots </a></li>
-    <li><a href="#"> ➤ Project Video</a></li>
+    <li><a href="#proj-ss"> ➤ Project Screenshots </a></li>
+    <li><a href="#proj-vid"> ➤ Project Video</a></li>
+    <li><a href="#ack"> ➤ Acknowledgements </a></li>
   
   </ol>
 </details>
@@ -27,7 +29,7 @@
 -----------------------------------------------------
 
 <!-- PROJECT TITLE -->
-<h2 id="project-title"> :pencil: Project Title </h2>
+<h2 id="project-title"> 🎯 : Project Title </h2>
 
 <p align="justify"> 
 A comprehensive Lifestyle website offering a range of beauty services including hairstyling, makeup services, spa treatments, and related products. The website is built using HTML, CSS, and JavaScript, and hosted on Azure Services. The goal is to create an intuitive and visually appealing platform that allows users to browse and purchase beauty services and products seamlessly. This website is also integrated with a FAQ Chatbot to answer all customer queries.
@@ -41,7 +43,7 @@ A comprehensive Lifestyle website offering a range of beauty services including 
 -----------------------------------------------------
 
 <!-- PROJECT STATEMENT/OPPORTUNITY -->
-<h2 id="project-statement"> :pencil: Project Statement/Opportunity </h2>
+<h2 id="project-statement"> 📑: Project Statement/Opportunity </h2>
 
 <p align="justify"> 
 The project addresses the need for enhanced customer support and engagement in the beauty services industry by integrating a sophisticated FAQ chatbot into a Lifestyle website. This chatbot, developed using Azure Bot Service and QnA Maker, provides instant, accurate responses to user inquiries about hairstyling, makeup, and spa services. By offering 24/7 automated support, the chatbot improves user experience, reduces response times, and allows staff to focus on delivering high-quality services. This innovative solution enhances the website’s functionality, making it a more valuable and efficient tool for both customers and service providers, ultimately driving higher customer satisfaction and engagement.
@@ -69,7 +71,7 @@ The project is targeted at both potential customers looking for beauty services 
 -----------------------------------------------------
 
 <!-- WEB TECHNOLOGIES USED -->
-<h2 id="web-tech"> :pencil: Web Technologies Used </h2>
+<h2 id="web-tech"> 🕸️: Web Technologies Used </h2>
 
 <p align="justify"> 
 Web Technologies used: HTML, CSS, JS, Bootstrap
@@ -79,41 +81,50 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 -----------------------------------------------------
 
 <!-- AZURE SERVICES USED -->
-<h2 id="azure-services"> :pencil: Azure Services Used </h2>
-
+<h2 id="azure-services"> ☁️: Azure Services Used </h2>
 <p align="justify"> 
-*Core Azure Services used* : Static Web Apps, Storage Accounts, Azure Backup
-*Azure AI Service used* : AI Language, QnA Maker
+  <ul>
+  <li> Core Azure Services used : Static Web Apps, Storage Accounts, Azure Backup </li>
+  <li> Azure AI Service used : AI Language, QnA Maker </li>
+  </ul>
 </p>
 
 -----------------------------------------------------
+<!-- PROJECT SCREENSHOTS -->
+<h2 id="proj-ss"> 📸: Project Screenshots </h2>
 
+<!--
+<p align="center">
+  <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+  <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+    <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+     <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+      <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+       <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+        <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+         <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+          <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+           <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+            <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+             <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+</p>
+-->
 
+<p align="justify"> 
 
-Website Link: https://jolly-grass-0104f0b10.5.azurestaticapps.net
+</p>
 
+-----------------------------------------------------
+<!-- PROJECT VIDEO -->
+<h2 id="proj-vid"> 📹: Project Video </h2>
+<a href ="https://youtu.be/GcEk-7DMi3E"> Project Video Tutorial Link </a> 
+<p align="justify"> 
 
+</p>
 
-
-
-The key objectives of the project include:
-
-- Designing and developing a user-friendly E-Commerce website with an appealing UI/UX.
-- Implementing secure payment gateways for online transactions.
-- Integrating Azure Services for hosting, database management, and scalability.
-- Providing an easy-to-use content management system for adding, updating, and managing beauty services and products.
-- Ensuring compatibility with different devices and browsers for a seamless user experience.
-- Implementing search and filter functionalities to help users find desired services and products efficiently.
-- Incorporating features such as user accounts, wishlist, and order tracking to enhance user engagement and satisfaction.
-
-The successful completion of this project will provide interns with valuable experience in web development, E-Commerce solutions, and cloud computing using Azure Services. It will also contribute to Future Ready Talent's mission of providing practical, hands-on learning experiences to prepare interns for future career opportunities.
-
-Account IDs:
-Git Hub ID: Mahvish02
-
-Azure Account ID: ahmedmahvish02@gmail.com
-
-
-Acknowledgements
-
-My sincere thanks, to Microsoft for an impressive static web apps service on MS Azure Cloud to deploy my website easily. It was a wonderful experience learning this and would like to explore more in next years of my B.Tech. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project.
+-----------------------------------------------------
+<!-- ACKNOWLEDGEMENTS -->
+<h2 id="ack"> :scroll: Acknowledgements </h2>
+<p align="justify"> 
+My sincere thanks to Microsoft for an impressive static web apps service on MS Azure Cloud to deploy my website easily. It was a wonderful experience learning this and would like to explore more in next years of my B.E. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project.
+</p>
