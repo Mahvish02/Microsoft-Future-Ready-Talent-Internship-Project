@@ -93,9 +93,9 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 <!-- PROJECT SCREENSHOTS -->
 <h2 id="proj-ss"> 📸: Project Screenshots </h2>
 
-<!--
+
 <p align="center">
-  <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+  <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/1%20Azure%20Services.png" alt="Azure-Services" width="75%" height="75%">
   <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
     <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
      <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
