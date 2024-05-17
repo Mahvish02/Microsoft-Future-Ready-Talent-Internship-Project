@@ -95,29 +95,43 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 
 
 <p align="center">
+   <p> 1. Azure Services Main Page </p>
   <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/1%20Azure%20Services.png" alt="Azure-Services" width="75%" height="75%">
-  <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-    <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-     <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-      <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-       <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-        <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-         <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-          <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-           <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-            <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
-             <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
+  <p> 2. Azure Static Web App Deployment Page </p>
+  <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/2%20Azure%20Static%20Web%20App%20.png" alt="AzureStaticWebApp" width="75%" height="75%">
+  <p> 3. Azure Storage Account Page  </p>
+    <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/3%20Azure%20Storage%20Account%20.png" alt="AzureStorageAccount" width="75%" height="75%">
+  <p> 4. Azure Services Main Page </p>
+     <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/4%20Azure%20AI%20Bot%20Sevices.png" alt="AzureAIBotServices" width="75%" height="75%">
+  <p> 5. Azure Data Protection Page </p>
+      <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/5%20Azure%20DataProtection.png" alt="AzureDataProtection" width="75%" height="75%">
+  <p> 6. Azure Resource Group Page </p>
+       <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/6%20Azure%20Resource%20Group.png" alt="AzureResourceGroup" width="75%" height="75%">
+      <p> 7. Azure AI Language Page </p>
+        <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/7%20Azure%20AI%20Language.png" alt="AzureAILanguage" width="75%" height="75%">
+          <p> 8. Azure Knowledge Base Page </p>
+         <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/8%20Azure%20Ai%20Language.png" alt="AzureKnowledgeBase" width="75%" height="75%">
+           <p> 9. Project Website Home Page </p>
+          <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/9%20Home%20Page.png" alt="HomePage" width="75%" height="75%">
+            <p> 10. Project Website About Page </p>
+           <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/10%20About%20Page.png" alt="AboutPage" width="75%" height="75%">
+             <p> 11. Project Website Services Page </p>
+            <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/11%20Services%20Page.png" alt="ServicesPage" width="75%" height="75%">
+              <p> 12. Project Website ContactUs Page </p>
+             <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/12%20Contact%20Us%20Page.png" alt="ContactUsPage" width="75%" height="75%">
+               <p> 13. Chatbot Page 1 </p>
+               <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/13%20Chatbot%20Page.png" alt="ChatBotPage" width="75%" height="75%">
+                 <p> 14. Chatbot Page 2 </p>
+               <img src="https://github.com/Mahvish02/Microsoft-Future-Ready-Talent-Internship-Project/blob/main/Readmeimgs/14%20Chatbot%20Page%20pt2.png" alt="ChatBotPage2" width="75%" height="75%">
+
 </p>
--->
-
 <p align="justify"> 
-
 </p>
 
 -----------------------------------------------------
 <!-- PROJECT VIDEO -->
 <h2 id="proj-vid"> 📹: Project Video </h2>
-<a href ="https://youtu.be/GcEk-7DMi3E"> Project Video Tutorial Link </a> 
+<a href =" "> Project Video Tutorial Link </a> 
 <p align="justify"> 
 
 </p>
