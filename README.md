@@ -1,6 +1,15 @@
+# <p align="center"> 
+#  <img src=" " alt=" " width="80px" height="80px">
+# </p>
+<h1 align="center"> Future Ready Talent Internship Project </h1>
+<h3 align="center"> This is an E-commerce Front-End Website Design </h3>  
+
+</br>
+
+
 Website Link: https://jolly-grass-0104f0b10.5.azurestaticapps.net
 
-This is an E-commerce Front-End Website Design
+
 
 
 <!-- TABLE OF CONTENTS -->
