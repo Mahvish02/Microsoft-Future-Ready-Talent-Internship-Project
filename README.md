@@ -131,7 +131,7 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 -----------------------------------------------------
 <!-- PROJECT VIDEO -->
 <h2 id="proj-vid"> 📹: Project Video </h2>
-<a href =" "> Project Video Tutorial Link </a> 
+<a href ="https://vimeo.com/947438994?share=copy"> Project Video Tutorial Link </a> 
 <p align="justify"> 
 
 </p>
