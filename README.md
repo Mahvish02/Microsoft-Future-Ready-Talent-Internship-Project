@@ -2,6 +2,24 @@ Website Link: https://jolly-grass-0104f0b10.5.azurestaticapps.net
 
 This is an E-commerce Front-End Website Design
 
+
+<!-- TABLE OF CONTENTS -->
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#"> ➤ Project Title </a></li>
+    <li><a href="#"> ➤ Project Statement/Opportunity </a></li>
+    <li><a href="#"> ➤ Project Description </a></li>
+    <li><a href="#"> ➤ Web Technologies used </a></li>
+    <li><a href="#"> ➤ Azure Services Used </a></li>
+    <li><a href="#"> ➤ Project Screenshots </a></li>
+    <li><a href="#"> ➤ Project Video</a></li>
+  
+  </ol>
+</details>
+
 Web Technologies used: HTML, CSS, JS
 
 IDE: VSCode
